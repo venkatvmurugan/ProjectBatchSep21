@@ -8,4 +8,8 @@ public class Sample {
 
 	}
 
+	private void Main() {
+		// TODO Auto-generated method stub
+
+	}
 }
